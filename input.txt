@@ -1,0 +1,6 @@
+S T
+a b c
+S
+
+S -> aSc | T | lambda 
+T -> bTc | lambda 
