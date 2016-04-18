@@ -1,6 +1,9 @@
-S T
-a b c
-S
+E Q T R F
+i + - * / ( )
+E
 
-S -> aSc | T | lambda 
-T -> bTc | lambda 
+E -> TQ
+T -> FR
+Q -> +TQ | -TQ | lambda
+R -> *FR | /FT | lambda
+F -> (E) | i
