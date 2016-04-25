@@ -152,6 +152,7 @@ def parse(w):
 	
 def main():
 	read_file("input.txt")
+	print(first("A"));
 	if fill_table():
 		w = input("Enter string to be parsed('exit' to end): ")
 		while w!='exit':

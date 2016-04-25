@@ -1,9 +1,7 @@
-E Q T R F
-i + - * / ( )
-E
+A B
+a b c
+A
 
-E -> TQ
-T -> FR
-Q -> +TQ | -TQ | lambda
-R -> *FR | /FT | lambda
-F -> (E) | i
+A -> BBBBBBBBBBBBBBB | lambda
+B -> lambda
+
